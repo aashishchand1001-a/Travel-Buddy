@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+# You can add branch-specific settings, environment variables, or redirects here.
+# For example:
+# [context.production.environment]
+#   NODE_ENV = "production"
